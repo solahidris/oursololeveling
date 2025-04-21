@@ -1,6 +1,6 @@
 # Our Solo Leveling
 
-A unique fitness tracking app inspired by the Solo Leveling universe that helps you progressively level up your workout routine through an RPG-style experience.
+A unique fitness tracking app inspired by the anime universe that helps you progressively level up your workout routine through an RPG-style experience.
 
 ## Features
 
@@ -58,4 +58,4 @@ Our app stores your workout data and progress securely in the cloud. For detaile
 
 ## Creators
 
-Created by Solahuddin Idris. Inspired by the Solo Leveling manhwa by Chugong.
+Created by Solahuddin Idris
