@@ -1,10 +1,10 @@
-# Privacy Policy for Our Solo Leveling
+# Privacy Policy for Shadow Rank
 
 **Last updated:** March 20, 2025
 
 ## Introduction
 
-Our Solo Leveling ("we", "us", or "our") respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you use our app and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+Shadow Rank ("we", "us", or "our") respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you use our app and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
 ## Information We Collect
 
@@ -74,4 +74,4 @@ We may update our Privacy Policy from time to time. If we make material changes,
 
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 - Email: emailsolah@gmail.com
-- GitHub: https://github.com/solahidris/oursololeveling/issues
+- GitHub: https://github.com/solahidris/shadowrank/issues
