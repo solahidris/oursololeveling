@@ -1,13 +1,13 @@
-# Our Solo Leveling
+# Shadow Rank
 
-A unique fitness tracking app inspired by the anime universe that helps you progressively level up your workout routine through an RPG-style experience.
+A unique fitness app that helps you progressively level up your workout routine through an RPG-style experience.
 
 ## Features
 
 ### Character Progression
 - Level up your character as you complete daily workouts
 - Earn gold and rank up through an RPG-inspired progression system
-- Unique pixel art character avatars that evolve as you progress
+- Character avatars that evolve as you progress
 
 ### Equipment & Inventory System
 - Collect and equip items that boost your character's stats
@@ -34,7 +34,7 @@ A unique fitness tracking app inspired by the anime universe that helps you prog
 
 ## Installation
 
-Our Solo Leveling is available on the iOS App Store.
+Shadow Rank is available on the iOS App Store.
 
 ## Development
 
@@ -50,7 +50,7 @@ This app is built with:
 For support inquiries, please:
 1. Create an issue in this repository
 2. Email us at emailsolah@gmail.com
-3. Visit our support page at https://github.com/solahidris/oursololeveling/issues
+3. Visit our support page at https://github.com/solahidris/shadowrank/issues
 
 ## Privacy & Data
 
